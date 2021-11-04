@@ -5,7 +5,7 @@
 <br>
     Just double click on it and then accept the pop up. then go to any folder and right click it. You will see the image below
 
-    1- In the first image its the default.
+    1- The first image is the default.
     
     2- In the second one you have the cmd launch option.
 <br>
