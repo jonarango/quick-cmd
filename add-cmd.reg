@@ -1,7 +1,7 @@
 ﻿Windows Registry Editor Version 5.00
 ;This will create the name and add the icon to the tab
 [HKEY_CLASSES_ROOT\Directory\Background\shell\OpenCmd]
-@="Open CMD"
+@="Open Terminal"
 "Icon"="C:\\Windows\\System32\\cmd.exe"
 ;This will execute the command that will open the cmd shell
 [HKEY_CLASSES_ROOT\Directory\Background\shell\OpenCmd\command]
